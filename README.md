@@ -1,0 +1,2 @@
+# NewsMag
+A news page 
